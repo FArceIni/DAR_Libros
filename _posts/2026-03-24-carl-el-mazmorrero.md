@@ -79,7 +79,7 @@ categories: libros review
 Procedemos a hablar de uno de los primeros libros que lei en 2026:<br>
 Carl el Mazmorrero, de Matt Dinimann
 
-![Portada](/assets/images/carl_el_mazmorrero_1.jpg){: .portada-libro }
+![Portada]({{ site.baseurl }}/assets/images/carl_el_mazmorrero_1.jpg){: .portada-libro }
 
 ## Ficha Técnica
 <div class="ficha-tecnica">
